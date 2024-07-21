@@ -1,9 +1,10 @@
 # PrivateGPT
-
 Just an idea to build my own gpt, using the latest llama3 AI model that too while running it on google colab using ngrok, and maybe even use Open WebUI.
 
-
 Not sure what this project will become in next few days. thou there are many uncertainties like dealing with google colab runtimes for gpu's, other limits, ngrok limits and so on. So, maybe just another project to be kept as private in near future.
+
+## NOTE: DISCONTINUED 
+Cauz google colab reason i talked, also it wasnt worth spending time on something like this. alternatives like cloudflare ai workers is much better option.
 
 ## Useful links:-
 Colab= https://colab.research.google.com/drive/1VVXTgAVduWMqWqk9voYLKjgIfn_wgwnK?authuser=1#scrollTo=VmzVoTZT197r
